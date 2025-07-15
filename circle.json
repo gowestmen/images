@@ -1,0 +1,37 @@
+{
+  "bleu": {
+    "height": 56,
+    "pixelRatio": 1,
+    "width": 110,
+    "x": 112,
+    "y": 0
+  },
+  "orange": {
+    "height": 56,
+    "pixelRatio": 1,
+    "width": 110,
+    "x": 112,
+    "y": 56
+  },
+  "rouge": {
+    "height": 56,
+    "pixelRatio": 1,
+    "width": 110,
+    "x": 0,
+    "y": 57
+  },
+  "semi_circle": {
+    "height": 57,
+    "pixelRatio": 1,
+    "width": 112,
+    "x": 0,
+    "y": 0
+  },
+  "turquoise": {
+    "height": 56,
+    "pixelRatio": 1,
+    "width": 110,
+    "x": 110,
+    "y": 112
+  }
+}
