@@ -1,0 +1,34 @@
+{
+  "barrage": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 0,
+    "y": 0,
+    "sdf": true
+  },
+  "bridge": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 28,
+    "y": 0,
+    "sdf": true
+  },
+  "chef": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 0,
+    "y": 22,
+    "sdf": true
+  },
+  "hospital": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 28,
+    "y": 22,
+    "sdf": true
+  }
+}
